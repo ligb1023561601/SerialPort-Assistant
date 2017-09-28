@@ -1,0 +1,9 @@
+E:\code\SerialPortUtilityExample\SerialPortUtilityExample\bin\Debug\SerialPortUtilityExample.exe.config
+E:\code\SerialPortUtilityExample\SerialPortUtilityExample\bin\Debug\SerialPortUtilityExample.exe
+E:\code\SerialPortUtilityExample\SerialPortUtilityExample\bin\Debug\SerialPortUtilityExample.pdb
+E:\code\SerialPortUtilityExample\SerialPortUtilityExample\obj\Debug\SerialPortUtilityExample.csprojResolveAssemblyReference.cache
+E:\code\SerialPortUtilityExample\SerialPortUtilityExample\obj\Debug\SerialPortUtilityExample.Form1.resources
+E:\code\SerialPortUtilityExample\SerialPortUtilityExample\obj\Debug\SerialPortUtilityExample.Properties.Resources.resources
+E:\code\SerialPortUtilityExample\SerialPortUtilityExample\obj\Debug\SerialPortUtilityExample.csproj.GenerateResource.Cache
+E:\code\SerialPortUtilityExample\SerialPortUtilityExample\obj\Debug\SerialPortUtilityExample.exe
+E:\code\SerialPortUtilityExample\SerialPortUtilityExample\obj\Debug\SerialPortUtilityExample.pdb
